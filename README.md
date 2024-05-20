@@ -12,6 +12,10 @@
 
  - https://trello.com/b/7OCyzovm/tareas-ts
 
+## Swagger Endpoint Documentation
+
+ - http://localhost:8080/api/v1/swagger-ui/index.html
+
 ## Front-End   
 
 - https://github.com/Harolin-23/Front-End-Ticket-Show
