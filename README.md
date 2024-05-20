@@ -6,11 +6,15 @@
 - Mateo Saldarriaga Vidales
 - Harold Chaverra
 - Felipe Forero
-- Ana Zapata
+- Ana Sofia Castrillon Zapata
 
 ## TABLERO TRELLO
 
  - https://trello.com/b/7OCyzovm/tareas-ts
+
+## Swagger Endpoint Documentation
+
+ - http://localhost:8080/api/v1/swagger-ui/index.html
 
 ## Front-End   
 
