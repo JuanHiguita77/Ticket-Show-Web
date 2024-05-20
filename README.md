@@ -6,7 +6,7 @@
 - Mateo Saldarriaga Vidales
 - Harold Chaverra
 - Felipe Forero
-- Ana Zapata
+- Ana Sofia Castrillon Zapata
 
 ## TABLERO TRELLO
 
