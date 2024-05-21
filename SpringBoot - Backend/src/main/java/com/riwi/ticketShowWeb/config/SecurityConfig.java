@@ -44,10 +44,8 @@ public class SecurityConfig {
         "/swagger-resources/**",
         "/swagger-ui.html",
         "/swagger-ui/**",
-        "/webjars/**"
-    };
-    
-    private final String[] ADMIN_RESOURCES  = {
+        "/webjars/**",
+
         // Rutas para la documentación de Swagger
         
         // Otras rutas públicas generales
@@ -59,6 +57,10 @@ public class SecurityConfig {
         "/events/update/{id}",
         "/add",
         "/delete",
+    };
+    
+    private final String[] ADMIN_RESOURCES  = {
+
     };
     
     /*
